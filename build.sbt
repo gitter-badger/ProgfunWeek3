@@ -74,4 +74,4 @@ assignmentsMap := {
 
 
 scaladexKeywords in Scaladex := Seq("Foo", "Bar", "Baz")
-credentials in Scaladex += Credentials("Scaladex Realm", "index.scala-lang.org", "token", "<github personal access token>")
+credentials in Scaladex += Credentials("Scaladex Realm", "index.scala-lang.org", "token", "050f49fe267626dc4e341be825abb652be1f5dee")
