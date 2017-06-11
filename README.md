@@ -1,1 +1,1 @@
-Progfun1, Week 3 - objsets
+Progfun1 course, Week 3 - objsets
